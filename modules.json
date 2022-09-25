@@ -1,0 +1,13 @@
+[
+  {
+    "id": "repl-server",
+    "name": "REPL-server",
+    "description": "",
+    "icon": "<svg width=\"73\" height=\"73\" viewBox=\"0 0 73 73\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"73\" height=\"73\" rx=\"3\" fill=\"#ABBCC6\"/>\n</svg>",
+    "date": "25/09/22",
+    "category": "1",
+    "tags": ["tools"],
+    "version": "1.0.0",
+    "package": "https://github.com/42pub/sails-repl-server/releases/download/1.0.0/repl-server.tar"
+  }
+]
